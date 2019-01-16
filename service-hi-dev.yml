@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: service-hi56
+    name: service-hi
 
 eureka:
   client:
